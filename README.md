@@ -30,7 +30,7 @@
 
 ### Todo's
 * Encontrar buenos tutoriales
-* Estudiar el curso online python en inglés que había comenzado
+* Estudiar el curso online python en inglés que había comenzado [Practical Numerical Methods with Python](http://openedx.seas.gwu.edu/courses/GW/MAE6286/2014_fall/about)
 
 
 [My website](http://www.udec.cl/~ramirorebolledo)
