@@ -30,5 +30,7 @@
 
 ### Todo's
 * Encontrar buenos tutoriales
+* Estudiar el curso online python en inglés que había comenzado
+
 
 [My website](http://www.udec.cl/~ramirorebolledo)
