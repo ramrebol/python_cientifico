@@ -26,6 +26,20 @@
     ```
     if-elif-else
     ```
+### Laboratorio 2
+* Creacion de modulos sencillos.
+
+    ```
+    import modulo
+    import modulo as abreviacion
+    import
+    from modulo import algo
+    from modulo import *
+    ```
+
+    Nota: solo se importa un modulo la primera vez, por lo que si
+          se hace un cambio en el modulo cargado (o los modulos que este
+	  importa) debe usarse "reload". 
 
 
 ### Todo's
