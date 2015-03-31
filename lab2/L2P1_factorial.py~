@@ -1,0 +1,19 @@
+# Laboratorio 2 de Python
+# -----------------------
+#
+# Problema 1
+#
+#     Escriba un programa que calcule el factorial de un número natural.
+#
+# ------------------------
+# Ramiro Rebolledo Cormack
+# ramrebol@gmail.com
+# Lunes 30/03/2015
+
+def factorial(n):
+    salida = 1
+    for i in xrange(1,n+1):
+        salida *= i
+    #
+    print salida
+    return salida
